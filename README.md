@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faiezahmed0000
+- 👋 Hi, I’m @faiezahmed0000 React JS developer
 - 👀 I’m interested in ...Hosting
 - 🌱 I’m currently learning ...Website full creation  
 - 💞️ I’m looking to collaborate on ...website
